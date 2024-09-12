@@ -1,1 +1,2 @@
-# Learn-pyhon0ith-python
+# Learn-pyhon-with-python
+Please install ```pygame``` and ``````
